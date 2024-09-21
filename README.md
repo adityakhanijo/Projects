@@ -32,34 +32,29 @@ This research evaluates the hemodynamic effects of different induction agents on
 
 Explaination here
 
-## Delirium Transitions in the ICU
+## SCCM Abstract 1
 
-![SCCM Abstract](./SCCM-Abstract-Comorbidities.pdf)
-
-Explaination here
-
-## Delirium Transitions in the ICU
-
-![Delirium Transition](./Delirium-Transition.jpeg)
+![SCCM Abstract 1](./SCCM-Abstract-Comorbidities.pdf)
 
 Explaination here
 
-## Delirium Transitions in the ICU
+## SCCM Abstract 1
 
-![Delirium Transition](./Delirium-Transition.jpeg)
-
-Explaination here
-
-## Delirium Transitions in the ICU
-
-![Delirium Transition](./Delirium-Transition.jpeg)
+![SCCM Abstract 1](./SCCM-Abstract-Comorbidities.pdf)
 
 Explaination here
 
-## Delirium Transitions in the ICU
+## SCCM Abstract 2
 
-![Delirium Transition](./Delirium-Transition.jpeg)
+![SCCM Abstract 1](./SCCM-Abstract-Comorbidities.pdf)
 
 Explaination here
+
+## SCCM Abstract 3
+
+![SCCM Abstract 4](./SCCM-Abstract-Comorbidities.pdf)
+
+Explaination here
+
 
 
