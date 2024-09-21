@@ -1,4 +1,4 @@
-# Project Overview
+# Projects
 
 This repository contains various projects related to medical quality improvement and research studies. Below are the images and descriptions of each project.
 
@@ -34,7 +34,7 @@ Explaination here
 
 ## Delirium Transitions in the ICU
 
-![Delirium Transition](./Delirium-Transition.jpeg)
+![SCCM Abstract](./SCCM-Abstract-Comorbidities.pdf)
 
 Explaination here
 
