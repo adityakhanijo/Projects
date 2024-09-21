@@ -10,7 +10,7 @@ This project focuses on evaluating existing protocols and resources related to o
 
 ## Simulation for Medical Quality Improvement (SIM-QI) in Extracorporeal Membrane Oxygenation Cardiopulmonary Resuscitation (eCPR)
 
-![eCPR](./eCPR.jpg)
+![eCPR](./eCPR.jpeg)
 
 This project aims to improve CPR protocols through effective incorporation of eCPR, enhancing survival in refractory cardiac arrest cases.
 
@@ -25,5 +25,41 @@ This study assesses the impact of nutrition-focused counseling on diet and nutri
 ![Induction Agents](./Induction-Agents.jpg)
 
 This research evaluates the hemodynamic effects of different induction agents on septic shock patients undergoing endotracheal intubation.
+
+## Delirium Transitions in the ICU
+
+![Delirium Transition](./Delirium-Transition.jpeg)
+
+Explaination here
+
+## Delirium Transitions in the ICU
+
+![Delirium Transition](./Delirium-Transition.jpeg)
+
+Explaination here
+
+## Delirium Transitions in the ICU
+
+![Delirium Transition](./Delirium-Transition.jpeg)
+
+Explaination here
+
+## Delirium Transitions in the ICU
+
+![Delirium Transition](./Delirium-Transition.jpeg)
+
+Explaination here
+
+## Delirium Transitions in the ICU
+
+![Delirium Transition](./Delirium-Transition.jpeg)
+
+Explaination here
+
+## Delirium Transitions in the ICU
+
+![Delirium Transition](./Delirium-Transition.jpeg)
+
+Explaination here
 
 
