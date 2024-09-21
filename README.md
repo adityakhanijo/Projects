@@ -30,7 +30,7 @@ This research evaluates the hemodynamic effects of different induction agents on
 
 ![Delirium Transition](./Delirium-Transition.jpeg)
 
-Explaination here
+Explaination
 
 ## SCCM Abstract 1
 
